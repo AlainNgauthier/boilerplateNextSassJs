@@ -1,0 +1,11 @@
+{
+    "name": "Programa de Estudantes-Convênio de Graduação",
+    "short_name": "PEC-G",
+    
+    "background_color": "#06092B",
+    "description": "Portal do PEC-G na Universidade Federal de São Carlos",
+    "display": "fullscreen",
+    "start_url": "/",
+    "theme_color": "#06092B"
+}
+
