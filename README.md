@@ -1,1 +1,1 @@
-# Programa de Estudantes Cônvenio de Graduação
+# Templates for my NextJS projects (JavaScript/Sass)
